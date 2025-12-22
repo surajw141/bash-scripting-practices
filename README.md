@@ -40,8 +40,8 @@ These projects demonstrate a progression from basic shell interaction to advance
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/surajw141/bash-scripting-practice-10-projects.git
-   cd bash-scripting-practice-10-projects
+   git clone https://github.com/surajw141/bash-scripting-practices.git
+   cd bash-scripting-practices
 
 ## 🤝 Connect
 If you found these scripts helpful or have suggestions for optimization, feel free to reach out!
